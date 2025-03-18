@@ -1,4 +1,3 @@
----
 ## 1. Lịch sử
 - Golang lần đầu được ra đời vào năm 2007 để có thể cải thiện hiệu năng các chương trình đa nhân, mạng máy tính.
 - Golang được xác định là ngôn ngữ yêu cầu khai báo kiểu dữ liệu trước (Compile Time).
