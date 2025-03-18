@@ -1,6 +1,3 @@
-# **Người thực hiện: Nguyễn Tiến Thành**
-
-
 ---
 ## 1. Lịch sử
 - Golang lần đầu được ra đời vào năm 2007 để có thể cải thiện hiệu năng các chương trình đa nhân, mạng máy tính.
